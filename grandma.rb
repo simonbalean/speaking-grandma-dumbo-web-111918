@@ -4,6 +4,9 @@
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
 
+require 
+
+
 def speak_to_grandma(speech)
   if speech == speech.upcase
     if speech == "I LOVE YOU GRANDMA"
