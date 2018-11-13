@@ -8,9 +8,8 @@
 def speak_to_grandma(speech)
   if speech == speech.upcase
     if speech == "I LOVE YOU GRANDMA"
-      puts "I LOVE YOU TOO PUMPKIN!"
-    else puts "NO, NOT SINCE 1938!"
-  else puts "HUH?! SPEAK UP, SONNY"
+      elsif puts "NO, NOT SINCE 1938!"
+  elsif puts "HUH?! SPEAK UP, SONNY"
 end
 
 # If you shout, she can hear you (or at least she thinks so) 
